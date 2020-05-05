@@ -1,0 +1,5 @@
+[require]
+Django==3.0.*
+django_taggit==1.2.0
+markdown==3.2.1
+psycopg2-binary==2.8.4
